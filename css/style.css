@@ -18,3 +18,10 @@ body {
   background-color: #ffa62b;
   border: unset;
 }
+
+#entryForm .button {
+  border-radius: 5px;
+  padding: 1em 2em;
+  border: unset;
+  margin-left: 76%;
+}
