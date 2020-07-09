@@ -4,7 +4,10 @@ const entryTextbox = document.querySelector(".entry-textbox");
 
 let addEntryToDom = function (event) {
   event.preventDefault();
-  console.log(entryTextbox.value);
+  const entryDiv = document.createElement("div");
+  entryDiv.className = "single-entry";
+  entryDiv.innerText = entryTextbox.value;
+  entriesSection.appendChild(entryDiv);
 };
 
 entryForm.addEventListener("submit", addEntryToDom);
