@@ -1,6 +1,6 @@
 ## About this project:
 
-This project is part of scrimba front end path.
+This is a simple diary.
 
 ## Functionality:
 
@@ -12,4 +12,4 @@ This project is part of scrimba front end path.
 
 ## Project Link:
 
-Click [here]() to view the live page
+Click [here](https://mitalishah.github.io/diary-app-vanillaJS/) to view the live page
