@@ -1,8 +1,6 @@
 ## About this project:
 
-This is a simple diary.
-
-## Functionality:
+This is a simple diary app. Primary goal of this project was to practice DOM manipulation.
 
 ## Technologies used:
 
